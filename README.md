@@ -48,7 +48,5 @@ If you use this code or build on this work, please cite the following publicatio
   year      = {2023},
   doi       = {10.1088/1361-6420/aca754}
 }
-
+```
 For questions, suggestions, or collaboration inquiries, feel free to reach out via email: alqahtani.amth@gmail.com
-
-This project is licensed under the Creative Commons Attribution 4.0 International License. You are free to share and adapt the code with appropriate credit. License details: https://creativecommons.org/licenses/by/4.0/
