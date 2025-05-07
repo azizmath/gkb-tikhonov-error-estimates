@@ -37,18 +37,18 @@ The test problems included are:
 - 2D Inverse Diffusion: Based on IR Tools (not included in this archive), showcasing scalability and applicability to PDE-based inverse problems.
 
 If you use this code or build on this work, please cite the following publication:
-
+```bib
 @article{Alqahtani2023GKB,
-author = {Abdulaziz Alqahtani and Ronny Ramlau and Lothar Reichel},
-title = {Error Estimates for Golub--Kahan Bidiagonalization with Tikhonov Regularization for Ill--posed Operator Equations},
-journal = {Inverse Problems},
-volume = {39},
-number = {2},
-pages = {025002},
-year = {2023},
-doi = {10.1088/1361-6420/aca754}
+  author    = {Abdulaziz Alqahtani and Ronny Ramlau and Lothar Reichel},
+  title     = {Error Estimates for Golub--Kahan Bidiagonalization with Tikhonov Regularization for Ill--posed Operator Equations},
+  journal   = {Inverse Problems},
+  volume    = {39},
+  number    = {2},
+  pages     = {025002},
+  year      = {2023},
+  doi       = {10.1088/1361-6420/aca754}
 }
 
-For questions, suggestions, or collaboration inquiries, feel free to reach out via email: abdulaziz.alqahtani@protonmail.com
+For questions, suggestions, or collaboration inquiries, feel free to reach out via email: alqahtani.amth@gmail.com
 
 This project is licensed under the Creative Commons Attribution 4.0 International License. You are free to share and adapt the code with appropriate credit. License details: https://creativecommons.org/licenses/by/4.0/
